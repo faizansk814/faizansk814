@@ -6,6 +6,7 @@ Hi, I’m Faizan Shaikh a Node.js developer.<br>Node.js is a powerful platform f
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizansk814/)
+  <a href="https://faizansk814.github.io">Portfolio</a>
   
 
 # 💻 Tech Stack:
